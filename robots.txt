@@ -1,0 +1,15 @@
+User-agent: * 
+Crawl-Delay: 20
+
+Disallow: /.git
+Disallow: /.gitignore
+Disallow: /.settings
+Disallow: /cgi-bin
+Disallow: /js
+Disallow: /img
+Disallow: /system
+Disallow: /css
+Disallow: /.ftpquota
+Disallow: /google*
+
+Sitemap: /sitemap.xml

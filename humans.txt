@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Wes Crow -- Developer -- @wescrow
+
+# THANKS
+
+    h5bp
+    EllisLab
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr, Require.js, CodeIgniter
